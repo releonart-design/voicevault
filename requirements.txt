@@ -1,0 +1,6 @@
+streamlit
+gTTS
+deep-translator
+moviepy
+pydub
+edge-tts
